@@ -381,8 +381,6 @@ https://www.sxtv.top/cctv.php?id=cctv17
 video://https://yangshipin.cn/#/tv/home?pid=600001810
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="央视频道",CCTV17
 http://58.23.26.183:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16-4k" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16-4k.png" group-title="央视频道",CCTV16-4k
-https://www.sxtv.top/cctv.php?id=cctv16-4k
 #EXTINF:-1 tvg-id="" tvg-name="CCTVnews" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTVnews.png" group-title="央视频道",CCTVnews
 http://144.52.162.149:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="卫视频道",浙江卫视
